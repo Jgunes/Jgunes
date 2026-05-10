@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Jgunes/Jgunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JG Automation & Data
 
-Here are some ideas to get you started:
+Python Automation Developer focused on business automation, data analysis, and reporting solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Excel Automation
+- Data Analysis
+- PDF Reporting
+- Pandas
+- Matplotlib
+- Python Scripting
+
+## Projects
+
+- Flight Delay Analysis
+- Sales Analysis Project
+- Customer Satisfaction Analysis
+- Inventory Management Analysis
+
+## Technologies
+
+Python • Pandas • Matplotlib • FPDF • Excel Automation
