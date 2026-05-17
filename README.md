@@ -9,6 +9,7 @@ Python Automation Developer focused on business automation, web scraping, data a
 - Excel Automation
 - Web Scraping
 - Data Analysis
+- Data Visualization
 - PDF Reporting
 - Pandas
 - Matplotlib
@@ -23,6 +24,7 @@ Python Automation Developer focused on business automation, web scraping, data a
 - AI Supplier Product Matching System
 - Customer Satisfaction Analysis
 - Inventory Management Analysis
+- Invoice Reporting & Business Analytics System
 
 ## Technologies
 
