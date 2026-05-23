@@ -2,8 +2,10 @@
 
 # JG Automation & Data
 
-Python Automation Developer focused on business automation, data analysis, reporting systems, web scraping, and workflow optimization.
-I build automation tools for Excel reporting, PDF generation, business dashboards, and data-driven workflows using Python.
+Python Automation Developer focused on business automation, data analysis, 
+reporting systems, web scraping, and workflow optimization.
+I build automation tools for Excel reporting, PDF generation,
+business dashboards, and data-driven workflows using Python.
 
 ## Skills
 
