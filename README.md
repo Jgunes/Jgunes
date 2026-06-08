@@ -22,6 +22,7 @@ business dashboards, and data-driven workflows using Python.
 ## Projects
 
 - Automated E-Commerce Sales Dashboard & PDF Report Generator
+- Automated Financial Reporting
 - Sales Analysis Project
 - Book Web Scraping Project
 - AI Supplier Product Matching System
